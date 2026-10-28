@@ -9,6 +9,9 @@ Software Engineering student at La Trobe University in Melbourne, graduating at 
 
 ## Projects
 
+I built each of these myself, from idea to tested, working software.
+
+
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [SiteRun](https://github.com/Omar-Azhari/siterun) | Construction equipment hire marketplace with web, Android and iOS apps | React, TypeScript, Supabase, Stripe, Capacitor |
@@ -24,6 +27,6 @@ Software Engineering student at La Trobe University in Melbourne, graduating at 
 **AI and vision:** OpenCV, YOLO, InsightFace, Claude API
 **Testing and tools:** Vitest, Playwright, Git, Vercel
 
-I build with AI coding tools and verify every change before it's committed.
+I use AI coding tools to work faster, and I review and test every change before it's committed.
 
 [LinkedIn](https://www.linkedin.com/in/omar-alazhari-028a6a203) · omar.alazhari.05@gmail.com
