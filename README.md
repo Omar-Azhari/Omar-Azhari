@@ -29,4 +29,4 @@ I built each of these myself, from idea to tested, working software.
 
 I use AI coding tools to work faster, and I review and test every change before it's committed.
 
-[LinkedIn](https://www.linkedin.com/in/omar-alazhari-028a6a203) · omar.alazhari.05@gmail.com
+[LinkedIn](https://www.linkedin.com/in/omar-al-azhari-028a6a203) · omar.alazhari.05@gmail.com
